@@ -27,3 +27,7 @@ article elements commonly contain multiple elements that have related informatio
 
   Note that hr elements are self closing.
   The default properties of an hr element will make it appear as a thin light grey line. You can change the height of the line by specifying a value for the height property.
+
+  o make the image behave like heading elements (which are block-level), create an img type selector and use the value block for the display property and use the applicable margin-left and margin-right values to center it horizontally.
+
+  add a negative top margin to the img elements to pull them up from their current positions. Negative values are created using a - in front of the value.
