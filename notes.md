@@ -24,3 +24,6 @@ article elements commonly contain multiple elements that have related informatio
   .item p { }
 
   The typography of heading elements (e.g. h1, h2) is set by default values of users' browsers.
+
+  Note that hr elements are self closing.
+  The default properties of an hr element will make it appear as a thin light grey line. You can change the height of the line by specifying a value for the height property.
